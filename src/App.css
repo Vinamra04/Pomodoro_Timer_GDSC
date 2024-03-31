@@ -1,0 +1,52 @@
+/* App.css */
+body {
+  text-align: center;
+  padding-top: 5em; /* Adjust the spacing from the top */
+  /* Add the dynamic gradient background */
+  background: linear-gradient(145deg, #020467, #01047f, #b818d2, #970cae);
+  background-size: 800% 800%;
+  animation: AnimationName 30s ease infinite;
+}
+
+@keyframes AnimationName {
+  0% { background-position: 0% 58%; }
+  50% { background-position: 100% 43%; }
+  100% { background-position: 0% 58%; }
+}
+
+/* App-specific styles */
+.App {
+  /* Remove the background-color property */
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  max-width: 340px;
+  margin: 0 auto;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
