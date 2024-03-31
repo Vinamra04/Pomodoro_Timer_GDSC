@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+# POMODORO TIMER
+This is a task given by GDSCSRM Recreuitments 2024, a basic Pomodoro Timer.
+# SCREENSHOTS
+Pomodoro Timer:
+![Pomodoro Timer](https://github.com/Vinamra04/Pomodoro_Timer_GDSC/assets/138901737/9d7322ac-fc5f-4cb0-b81d-62f2ba615670)
+Short Break:
+![Short Break](https://github.com/Vinamra04/Pomodoro_Timer_GDSC/assets/138901737/8db2c150-793c-4e86-b26e-c7241be747ef)
+Long Break:
+![Long Break](https://github.com/Vinamra04/Pomodoro_Timer_GDSC/assets/138901737/a9fa79c7-f7fa-4f13-aac9-22bd0509fcb8)
+Setting:
+![Settings](https://github.com/Vinamra04/Pomodoro_Timer_GDSC/assets/138901737/a1d660ad-2473-4c11-bfb2-d0ca99980cf2)
+Setting with Custom Tiemr:
+![Long Break with Custom Setting](https://github.com/Vinamra04/Pomodoro_Timer_GDSC/assets/138901737/5a69d920-5dcc-43dd-b074-31e7d67a130b)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Description
+ Develop a single-page web application for the Pomodoro Technique with advanced features. Users can personalize durations, track sessions, and potentially view historical data.
